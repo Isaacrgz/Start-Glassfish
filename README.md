@@ -1,10 +1,9 @@
 # Start-Glassfish
 <h2>How to start Glassfish Server</h2>
 
-1. Ubica el archivo ZIP en la ruta de interés.
-<br/>
+:one: Ubica el archivo ZIP en la ruta de interés.
 Ejemplo: C:/My-PC/documents/Sever_GF
-2. Descomprime el archivo ZIP.
+:two: Descomprime el archivo ZIP.
 3. Ubicate en a la carpeta bin principal.
 Ejemplo: C:/My-PC/documents/Sever_GF/glassfish-7.12/bin
 4. Ejecuta el archivo asadmin.bat.
