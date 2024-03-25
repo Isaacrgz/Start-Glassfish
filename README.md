@@ -2,6 +2,7 @@
 <h2>How to start Glassfish Server</h2>
 
 1. Ubica el archivo ZIP en la ruta de interés.
+<br/>
 Ejemplo: C:/My-PC/documents/Sever_GF
 2. Descomprime el archivo ZIP.
 3. Ubicate en a la carpeta bin principal.
