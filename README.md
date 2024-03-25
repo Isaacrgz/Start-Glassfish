@@ -11,7 +11,7 @@
 <br/>
 4. Ejecuta el archivo asadmin.bat.
 <br/>
-&ensp; Resultao: debe de abrirse una ventana cmd
+&ensp; Resultado: debe de abrirse una ventana cmd
 <br/>
 5. Utiliza el comando start-domain para iniciar el servidor.
 <br/>
