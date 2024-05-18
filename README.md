@@ -1,31 +1,31 @@
-<h2>How to start Glassfish Server</h2>
-1. Ubica el archivo ZIP en la ruta de interés.
-<br/>
-&ensp; Ejemplo: C:/My-PC/documents/Sever_GF
-<br/>
-2. Descomprime el archivo ZIP.
-<br/>
-3. Ubicate en a la carpeta bin principal.
-<br/>
-&ensp; Ejemplo: C:/My-PC/documents/Sever_GF/glassfish-7.12/bin
-<br/>
-4. Ejecuta el archivo asadmin.bat.
-<br/>
-&ensp; Resultado: debe de abrirse una ventana cmd
-<br/>
-5. Utiliza el comando start-domain para iniciar el servidor.
-<br/>
-&ensp; Resultado: después de unos segundos debe de salir el mensaje: success
+# Como instalar el Servidor Glassfish
+1. Ubica el archivo **ZIP** en la ruta de interés.
+> Ruta de ejemplo: C:/My-PC/documents/ServerGF
+2. Descomprime el archivo **ZIP**.
 
-<h2>How to stop Glassfish Server</h2>
-1. Ubicate en la carpeta bin principal. 
-<br/>
-&ensp; Ejemplo: C:/My-PC/documents/Sever_GF/glassfish-7.12/bin
-<br/>
-2. Ejecuta el archivo asadmin.bat.
-<br/>
-&ensp; Resultado: debe de abrirse una ventana cmd
-<br/>
-5. Utiliza el comando stop-domain para iniciar el servidor.
-<br/>
-&ensp; Resultado: después de unos segundos debe de salir el mensaje: success
+# Como iniciar el Servidor manualmente
+1. Ubicate en a la carpeta bin principal.
+> Ruta de ejemplo: C:/My-PC/documents/ServerGF/glassfish7/bin
+2. Ejecuta el archivo ***asadmin.bat***.
+
+3. Utiliza el siguiente comando para iniciar el servidor.
+```
+   start-domain
+```
+   + Resultado esperado:
+     ```
+        Command start-domain executed successfully
+     ```
+# Como apagar el Servidor 
+1. Ubicate en la carpeta **bin** principal.
+> Ruta de ejemplo: C:/My-PC/documents/ServerGF/glassfish7/bin
+2. Ejecuta el archivo ***asadmin.bat***.
+
+3. Utiliza el siguiente comando para apagar el servidor.
+```
+   stop-domain
+```
+   + Resultado esperado:
+     ```
+        Command stop-domain executed successfully
+     ```
