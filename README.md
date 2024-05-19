@@ -17,7 +17,7 @@
      ```
         Command start-domain executed successfully
      ```
-# Apagar el Servidor 
+# Apagar el Servidor manualmente
 1. Ubicate en la carpeta **bin** principal.
 > Ruta de ejemplo: C:/My-PC/ServerGF/glassfish7/bin
 2. Ejecuta el archivo ***asadmin.bat***.
