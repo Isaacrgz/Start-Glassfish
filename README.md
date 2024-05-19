@@ -31,7 +31,7 @@
         Command stop-domain executed successfully
      ```
 > [!NOTE]
-> Para comprobar si el servidor esta iniciado o pagago, puedes dirigirte a la intefaz de administración (admin GUI).
+> Para comprobar si el servidor esta iniciado o pagado, puedes dirigirte a la intefaz de administración (admin GUI).
 > ```
 >    http://localhost:4848
 > ```
